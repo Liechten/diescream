@@ -1,4 +1,4 @@
-text = "/s Я умру, но на моё место придут другие!!"
+text = "/s РЇ СѓРјСЂСѓ, РЅРѕ РЅР° РјРѕС‘ РјРµСЃС‚Рѕ РїСЂРёРґСѓС‚ РґСЂСѓРіРёРµ!!"
 
 function main()
   if not isSampLoaded() then return end
